@@ -2,3 +2,11 @@ learn about brancing & merge
 
 - Create new brach in front of branch
 - we can edit file in main brach or other branch
+for merging branches:
+1. klick compare & full request
+2. ensure the branches can be merged
+3. create title of purpose request
+4. create pull request
+5. go to pull requests
+6. confirm merge
+
