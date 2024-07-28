@@ -10,3 +10,4 @@ for merging branches:
 5. go to pull requests
 6. confirm merge
 
+delete branch which are not longer needed
