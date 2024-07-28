@@ -1,3 +1,4 @@
 learn about brancing & merge
 
 - Create new brach in front of branch
+- we can edit file in main brach or other branch
